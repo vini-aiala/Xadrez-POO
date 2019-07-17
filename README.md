@@ -1,1 +1,1 @@
-Xadrez POO
+Projeto final das aulas de programação orientada a objetos, que engloba muitos conceitos vistos em sala de aula.
